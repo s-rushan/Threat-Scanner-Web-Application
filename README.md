@@ -1,4 +1,4 @@
-# Multi-Source Threat Intelligence Scanner
+# Threat Scanner
 
 A Streamlit web application for scanning APK files and URLs using multiple threat intelligence APIs. Instantly check files and links for malware, phishing, and other security threats.
 
